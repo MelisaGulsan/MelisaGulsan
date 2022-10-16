@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melisa. revolving_hearts</h1>
 <h3 align="center">I am a passionate front-end developer</h3>
 
-[![Melisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelisaGulsan&show_icons=true&theme=tokyonight)](https://github.com/MelisaGulsan/github-readme-stats)
+[![Melisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelisaGulsan&show_icons=true&theme=dark)](https://github.com/MelisaGulsan/github-readme-stats)
 
 - 🌱 I’m currently learning **Angular, Typescripts, Tailwind CSS**
 
