@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Melisa. revolving_hearts</h1>
-<h3 align="center">I am a passionate front-end developer</h3>
-
+<h1 align="center">Hi 👋, I'm Melisa. :fairy_woman: </h1>
 
 ![banner](https://user-images.githubusercontent.com/74907355/196064614-364dcb07-4cb0-4bec-8554-86c32de81f00.png)
 
 
-[![Melisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelisaGulsan&show_icons=true&theme=radical)](https://github.com/MelisaGulsan/github-readme-stats)
-
-- 🌱 I’m currently learning **Angular, Typescripts, Tailwind CSS**
+:information_desk_person: I’m currently learning **Angular, Typescripts, Tailwind CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
