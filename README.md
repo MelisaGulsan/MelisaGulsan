@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melisa. :fairy_woman: </h1>
 
-![banner](https://user-images.githubusercontent.com/74907355/196064614-364dcb07-4cb0-4bec-8554-86c32de81f00.png)
+![hello world](https://user-images.githubusercontent.com/74907355/196068571-e0dc0442-b5d7-4d42-8bf6-ca891a8898c9.png)
+
 
 
 :information_desk_person: I’m currently learning **Angular, Typescripts, Tailwind CSS**
