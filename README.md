@@ -4,7 +4,7 @@
 
 
 
-:information_desk_person: I’m currently learning **Angular, Typescripts, Tailwind CSS**
+:information_desk_person: I’m currently learning **React, Typescripts, Tailwind CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
