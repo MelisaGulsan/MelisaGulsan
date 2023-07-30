@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melisa. :fairy_woman: </h1>
 
-![hello world (2)](https://user-images.githubusercontent.com/74907355/196069331-d2c8e5bf-5eed-4577-a121-88f14b01cf1e.png)
+![hello world](https://github.com/MelisaGulsan/MelisaGulsan/assets/74907355/d8299114-e878-4802-831b-ee9195549e36)
 
 
 
