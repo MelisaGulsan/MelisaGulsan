@@ -4,7 +4,7 @@
 
 
 
-:information_desk_person: I’m currently learning **Angular, Typescripts**
+:information_desk_person: I’m currently learning **SEO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
